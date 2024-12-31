@@ -1,0 +1,6 @@
+Repositorio Git: https://github.com/FerAlejandre/-Analisis_de_sentimientos_de_resenas_de_Amazon_GiftCards..git
+
+Para crear e instalar env:
+> python -m venv env
+> env\Scripts\activate
+> pip install -r requirements.txt
