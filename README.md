@@ -1,6 +1,6 @@
 # Análisis de Sentimientos de Reseñas de Amazon Gift Cards
 
-Este proyecto fue desarrollado por **Fernando Alejandre** como parte del curso de **Certificación en Python Data Engineering**.
+Este proyecto fue desarrollado por **Fernando Alejandre** como parte del curso de **Certificación en Python Data Engineering de BGS Institute**.
 
 ## Descripción del Proyecto
 
