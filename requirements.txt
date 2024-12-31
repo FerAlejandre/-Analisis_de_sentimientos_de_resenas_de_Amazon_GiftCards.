@@ -1,0 +1,39 @@
+certifi==2024.12.14               # Provides Mozilla's CA Bundle for SSL/TLS certificates validation.
+charset-normalizer==3.4.1         # Library for normalizing character encodings in text.
+click==8.1.8                      # CLI creation toolkit for building command-line interfaces.
+colorama==0.4.6                   # Cross-platform colored terminal text.
+contourpy==1.3.1                  # Library for creating contour plots.
+cycler==0.12.1                    # Helps manage cycling through a set of properties for Matplotlib.
+filelock==3.16.1                  # A cross-platform file locking library.
+fonttools==4.55.3                 # Library for font-related operations like reading, converting, and subsetting fonts.
+fsspec==2024.12.0                 # Filesystem specification for Python, abstracting local and remote storage.
+huggingface-hub==0.27.0           # Hub client for managing and downloading pre-trained models from Hugging Face.
+idna==3.10                        # Library for handling Internationalized Domain Names (IDN).
+Jinja2==3.1.5                     # Templating engine for Python, commonly used with Flask and other frameworks.
+joblib==1.4.2                     # Provides lightweight pipelining for Python, often used with sklearn.
+kiwisolver==1.4.8                 # A fast implementation of the Cassowary constraint solving algorithm.
+MarkupSafe==3.0.2                 # Provides safe handling of untrusted strings in templates.
+matplotlib==3.10.0                # Comprehensive library for creating static, animated, and interactive visualizations in Python.
+mpmath==1.3.0                     # Library for arbitrary-precision arithmetic and mathematical functions.
+networkx==3.4.2                   # Library for creating, analyzing, and visualizing complex networks and graphs.
+nltk==3.9.1                       # Natural Language Toolkit for text processing and NLP.
+numpy==2.2.1                      # Fundamental package for numerical computing in Python.
+packaging==24.2                   # Helps parse and handle Python package versions and dependencies.
+pillow==10.2.0                    # Imaging library for opening, manipulating, and saving image files.
+pyparsing==3.2.0                  # Library for defining and executing grammars for structured text.
+python-dateutil==2.9.0.post0      # Extensions to the `datetime` module for more flexible date manipulation.
+PyYAML==6.0.2                     # YAML parser and emitter for Python.
+regex==2024.11.6                  # Provides advanced regular expression capabilities.
+requests==2.32.3                  # Popular library for making HTTP requests.
+safetensors==0.4.5                # Secure format for storing tensors.
+setuptools==75.6.0                # Helps build, package, and install Python packages.
+six==1.17.0                       # Utility library for writing code compatible with Python 2 and 3.
+sympy==1.13.1                     # Symbolic mathematics library for algebraic computations.
+tokenizers==0.21.0                # Fast, pre-trained tokenizer library for NLP, often used with Transformers.
+torch==2.5.1                      # PyTorch: A deep learning framework for machine learning tasks.
+torchaudio==2.5.1                 # PyTorch extension for audio processing.
+torchvision==0.20.1               # PyTorch extension for image processing tasks.
+tqdm==4.67.1                      # Library for creating progress bars in terminal or notebooks.
+transformers==4.47.1              # Hugging Face's library for pre-trained models like BERT, GPT, etc.
+typing_extensions==4.12.2         # Backports for newer features of the `typing` module for older Python versions.
+urllib3==2.3.0                    # HTTP client library for managing connections and requests.
